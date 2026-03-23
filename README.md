@@ -25,11 +25,10 @@ Identify behavioral patterns affecting purchase decisions and provide actionable
 
 ## Tools & Technologies
 
-* **Excel** : KPI & initial analysis
+* **Google Sheets** : KPI & initial analysis
 * **SQL** : Business queries & segmentation
 * **Python (Pandas, Matplotlib, Seaborn)** : Exploratory Data Analysis
 * **Power BI** : Interactive Dashboard & storytelling
-* **Google Colab / Jupyter Notebook**
 
 ---
 
